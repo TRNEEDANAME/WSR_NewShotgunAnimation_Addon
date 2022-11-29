@@ -1,9 +1,7 @@
 # New Shotgun Animation : Addon
 
-This mod's aim is really simple : add more shotgun to [WSR New Shotgun Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=1701209115)
+This mod's aim is really simple : add more shotgun support to [WSR New Shotgun Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=1701209115)
 It uses WSR to do so.
-
-It also support : 
 
 - Support [Operation Parallels - The Doom Slayer Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2064234140) and [[WOTC] Operation Parallels : Laser and Coil expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2869237069)
 - Support [Raider Faction: Rogue XCOM Operatives](https://steamcommunity.com/sharedfiles/filedetails/?id=1434693497)
