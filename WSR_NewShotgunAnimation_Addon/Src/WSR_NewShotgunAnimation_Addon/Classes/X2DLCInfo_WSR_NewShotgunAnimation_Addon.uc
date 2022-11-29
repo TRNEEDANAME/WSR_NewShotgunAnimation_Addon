@@ -1,0 +1,1 @@
+class X2DLCInfo_WSR_NewShotgunAnimation_Addon extends X2DownloadableContentInfo;
