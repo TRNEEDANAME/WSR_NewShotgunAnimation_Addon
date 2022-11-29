@@ -38,4 +38,4 @@ It's easier for me, but you can change the config without compiling the mod agai
 **YES**, you can, you can open issues, pull request, discussions...
 
 ### Can I fork it ?
-It's just config, but sure, just credit me.
+It's just config, but sure, just credit me and Iridar.
