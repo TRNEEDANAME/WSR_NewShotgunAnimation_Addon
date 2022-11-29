@@ -7,41 +7,29 @@
     <SteamPublishID>0</SteamPublishID>
     <AssemblyName>WSR_NewShotgunAnimation_Addon</AssemblyName>
     <RootNamespace>WSR_NewShotgunAnimation_Addon</RootNamespace>
+    <ProjectGuid>{c3d2f51c-4f85-40a9-bd8a-f3536f0b6610}</ProjectGuid>
   </PropertyGroup>
+  <PropertyGroup>
+    <SolutionRoot>$(MSBuildProjectDirectory)\..\</SolutionRoot>
+    <ScriptsDir>$(SolutionRoot).scripts\\</ScriptsDir>
+    <BuildCommonRoot>$(ScriptsDir)X2ModBuildCommon\</BuildCommonRoot>
+  </PropertyGroup>
+  <Import Project="$(BuildCommonRoot)XCOM2.targets" />
   <ItemGroup>
-    
-    
     <Folder Include="Config\" />
     <Folder Include="Config\Base\" />
     <Folder Include="Localization\" />
     <Folder Include="Src\" />
-    <Folder Include="Content\" />
-    <Folder Include="ContentForCook\" />
     <Folder Include="Src\WSR_NewShotgunAnimation_Addon\" />
     <Folder Include="Src\WSR_NewShotgunAnimation_Addon\Classes\" />
-  </ItemGroup>
-  <ItemGroup>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <Content Include="ReadMe.txt" />
+    <Content Include="Config\XComWeaponSkinReplacer.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ReadMe.md" />
     <Content Include="ModPreview.jpg" />
-    <Content Include="ContentOptions.json" />
     <Content Include="Config\Base\XComEditor.ini" />
     <Content Include="Config\Base\XComEngine.ini" />
     <Content Include="Config\Base\XComGame.ini" />
-    <Content Include="Config\XComTemplateCreator.ini" />
-    <Content Include="Config\XComTemplateEditor.ini" />
     <Content Include="Localization\XComGame.int" />
     <Content Include="Localization\WSR_NewShotgunAnimation_Addon.int" />
     <Content Include="Src\extra_globals.uci" />
@@ -49,10 +37,4 @@
     <Content Include="Src\WSR_NewShotgunAnimation_Addon\Classes\Help.uc" />
     <Content Include="Src\WSR_NewShotgunAnimation_Addon\Classes\ConfigEngine.uc" />
   </ItemGroup>
-  <PropertyGroup>
-    <SolutionRoot>$(MSBuildProjectDirectory)\..\</SolutionRoot>
-    <ScriptsDir>$(SolutionRoot).scripts\\</ScriptsDir>
-    <BuildCommonRoot>$(ScriptsDir)X2ModBuildCommon\</BuildCommonRoot>
-  </PropertyGroup>
-  <Import Project="$(BuildCommonRoot)XCOM2.targets" />
 </Project>
