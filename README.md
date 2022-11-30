@@ -25,8 +25,7 @@ This will be the most up to date project folder from the mod, even before it's o
 - Support [Raider Faction: Rogue XCOM Operatives](https://steamcommunity.com/sharedfiles/filedetails/?id=1434693497)
 - Support [Rising Tides: The Program](https://steamcommunity.com/sharedfiles/filedetails/?id=1500499606)
 - Support [[WotC] Call of Duty: Black Ops III :: Master Weapon Collection - Main Module](https://steamcommunity.com/sharedfiles/filedetails/?id=1616127036)
-- Support [[WOTC] Chimera Squad Weapons - Ghost Templates](https://steamcommunity.com/sharedfiles/filedetails/?id=2556737873)
-- Support [[WOTC] Iridar's ADVENT Arsenal - Ghost Templates](https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615)
+- Support [[WOTC] Chimera Squad Weapon Pack]( https://steamcommunity.com/sharedfiles/filedetails/?id=2377215692)
 - Support [[WotC] Resistance Firearms - Main Module](https://steamcommunity.com/sharedfiles/filedetails/?id=1132835147)
 
 ## FAQ
