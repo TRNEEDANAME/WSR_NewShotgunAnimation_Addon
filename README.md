@@ -1,6 +1,6 @@
 ## Description
 
-This is the github repository of the **mod project** folder for my [WSR Shotgun Animations](link here). 
+This is the github repository of the **mod project** folder for my [WSR Shotgun Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2895282660). 
 This will be the most up to date project folder from the mod, even before it's on steam.
 
 ## How to build the mod
@@ -38,4 +38,4 @@ It's easier for me, but you can change the config without compiling the mod agai
 **YES**, you can, you can open issues, pull request, discussions...
 
 ### Can I fork it ?
-It's just config, but sure, just credit me and Iridar.
+It's just config, but sure, just credit me and Iridar (who made both WSR and the Shotgun animation mods.
