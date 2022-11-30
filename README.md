@@ -18,6 +18,7 @@ This will be the most up to date project folder from the mod, even before it's o
 
 - [X2WOTCCommunityHighlander v1.24.0](https://steamcommunity.com/workshop/filedetails/?id=1134256495)
 - [WSR Shotgun Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=1701209115)
+- [[WOTC] WSR Weapon Skin Replacer - Core](https://steamcommunity.com/workshop/filedetails/?id=1517938486)
 
 #### Supported mod
 
