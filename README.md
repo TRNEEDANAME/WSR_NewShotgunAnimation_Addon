@@ -29,6 +29,8 @@ This will be the most up to date project folder from the mod, even before it's o
 - Support [[WOTC] Chimera Squad Weapon Pack]( https://steamcommunity.com/sharedfiles/filedetails/?id=2377215692)
 - Support [[WOTC] Iridar's ADVENT Arsenal - Ghost Templates](https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615)
 - Support [[WotC] Resistance Firearms - Main Module](https://steamcommunity.com/sharedfiles/filedetails/?id=1132835147)
+- Support [Total Advent Weaponry - WOTC](https://steamcommunity.com/sharedfiles/filedetails/?id=1136349656)
+
 
 ## FAQ
 
