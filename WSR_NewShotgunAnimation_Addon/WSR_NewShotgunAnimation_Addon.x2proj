@@ -16,6 +16,12 @@
   </PropertyGroup>
   <Import Project="$(BuildCommonRoot)XCOM2.targets" />
   <ItemGroup>
+    <Content Include="Src\WSR_NewShotgunAnimation_Addon\classes\X2DLCInfo_WSR_NewShotgunAnimation_Addon.uc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="X2DLCInfo_WSR_NewShotgunAnimation_Addon.uc">
+      <SubType>Content</SubType>
+    </Content>
     <Folder Include="Config\" />
     <Folder Include="Config\Base\" />
     <Folder Include="Localization\" />
@@ -30,5 +36,8 @@
     <Content Include="Localization\XComGame.int" />
     <Content Include="Localization\WSR_NewShotgunAnimation_Addon.int" />
     <Content Include="PublishedFileId.ID" />
+    <Folder Include="Src" />
+    <Folder Include="Src\WSR_NewShotgunAnimation_Addon" />
+    <Folder Include="Src\WSR_NewShotgunAnimation_Addon\classes" />
   </ItemGroup>
 </Project>
