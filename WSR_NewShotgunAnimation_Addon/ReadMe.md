@@ -11,5 +11,7 @@ It uses WSR to do so.
 - Support [[WOTC] Iridar's ADVENT Arsenal - Ghost Templates](https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615)
 - Support [[WOTC] Iridar's ADVENT Arsenal - Ghost Templates](https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615)
 - Support [Total Advent Weaponry - WOTC](https://steamcommunity.com/sharedfiles/filedetails/?id=1136349656)
+- Support [[WOTC] [FIXED] Clean TLE Weapons With Tiered Upgrades](https://steamcommunity.com/sharedfiles/filedetails/?id=1898540490)
+
 
 If you have a mod that's not supported neither in the base mod by Iridar or this one, send a link to the mod page and I will add it

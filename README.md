@@ -30,6 +30,7 @@ This will be the most up to date project folder from the mod, even before it's o
 - Support [[WOTC] Iridar's ADVENT Arsenal - Ghost Templates](https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615)
 - Support [[WotC] Resistance Firearms - Main Module](https://steamcommunity.com/sharedfiles/filedetails/?id=1132835147)
 - Support [Total Advent Weaponry - WOTC](https://steamcommunity.com/sharedfiles/filedetails/?id=1136349656)
+- Support [[WOTC] [FIXED] Clean TLE Weapons With Tiered Upgrades](https://steamcommunity.com/sharedfiles/filedetails/?id=1898540490)
 
 
 ## FAQ
@@ -41,4 +42,4 @@ It's easier for me, but you can change the config without compiling the mod agai
 **YES**, you can, you can open issues, pull request, discussions...
 
 ### Can I fork it ?
-It's just config, but sure, just credit me and Iridar (who made both WSR and the Shotgun animation mods).
+It's just config, but sure, just credit me and Iridar (who made both WSR and the Shotgun animation mod).
