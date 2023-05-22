@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Guid>7a741625-b047-4bc9-937c-fd605207d2ca</Guid>
     <Name>WSR_NewShotgunAnimation_Addon</Name>
-    <Description>This mod is an expansion to "WSR Shotgun Animations" by Iridar that add even more shotgun</Description>
+    <Description>This mod is an expansion to "WSR Shotgun Animations" by Iridar that add even more shotgun animation support</Description>
     <SteamPublishID>0</SteamPublishID>
     <AssemblyName>WSR_NewShotgunAnimation_Addon</AssemblyName>
     <RootNamespace>WSR_NewShotgunAnimation_Addon</RootNamespace>
@@ -24,7 +24,6 @@
     </Content>
     <Folder Include="Config\" />
     <Folder Include="Config\Base\" />
-    <Folder Include="Localization\" />
     <Content Include="Config\XComWeaponSkinReplacer.ini">
       <SubType>Content</SubType>
     </Content>
@@ -33,11 +32,6 @@
     <Content Include="Config\Base\XComEditor.ini" />
     <Content Include="Config\Base\XComEngine.ini" />
     <Content Include="Config\Base\XComGame.ini" />
-    <Content Include="Localization\XComGame.int" />
-    <Content Include="Localization\WSR_NewShotgunAnimation_Addon.int" />
     <Content Include="PublishedFileId.ID" />
-    <Folder Include="Src" />
-    <Folder Include="Src\WSR_NewShotgunAnimation_Addon" />
-    <Folder Include="Src\WSR_NewShotgunAnimation_Addon\classes" />
   </ItemGroup>
 </Project>
